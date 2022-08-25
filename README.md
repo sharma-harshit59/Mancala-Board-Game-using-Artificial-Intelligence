@@ -1,5 +1,5 @@
-# Project Name : Mini-Max-Algorithm-Based-Mancala-Board-Game
-# Made By - Priyansh Sharma
+# Project Name : Mancala-Board-Game-using-Artificial-Intelligence
+# Made By - Harshit Sharma
 
 * The mancala games are a family of two-player turn-based strategy board games played
 with small stones, beans, or seeds and rows of holes or pits in the earth, a board or other
