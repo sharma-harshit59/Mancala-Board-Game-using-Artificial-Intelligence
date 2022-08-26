@@ -41,18 +41,3 @@ every type of game.
 * Both the player will have 6 cups each containing 4 stones each . ***For Player 1 it will be from index 1 to 6 and for Player 2 it will be from index 8 to 13 .***
 
 * ***The Mancala box for Player 1 will be at Index 7 and for player 2 will be at Index 0 .***
-
-
-# Result and Game Representation 
-
-* We tried to make 2 type of gameplay (i) Player Vs Player  (ii) Player Vs AI(Bot) .
-
-* ***The final result of game will be calculated on the basis of which player have a sum total of stones in their mancala box more compared to other .***
-![image](https://user-images.githubusercontent.com/77832407/173490160-7bbe96b6-819e-4166-b4bc-1e8dafd7659f.png)
-
-![image](https://user-images.githubusercontent.com/77832407/173490177-633a25a1-c639-4941-94eb-6b6c4749af81.png)
-
-![image](https://user-images.githubusercontent.com/77832407/173490194-6fbb9210-b4ed-4e28-a9b5-234a1479a008.png)
-
-![image](https://user-images.githubusercontent.com/77832407/173490205-5e4e22b8-5a21-47f5-bd08-020553a9276e.png)
-
